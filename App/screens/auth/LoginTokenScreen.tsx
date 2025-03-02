@@ -18,9 +18,7 @@ export default function LoginTokenScreen() {
   const navigation = useNavigation<MainNavigationProps>();
   const [authErrorMessage, setAuthErrorMessage] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const [token, setToken] = useState(
-    'f1016d84b8b63237f0cfc8c9a1d244bafaf1e92718a385cf1df19b4613734110',
-  );
+  const [token, setToken] = useState('');
 
   const dispatch = useAppDispatch();
 
