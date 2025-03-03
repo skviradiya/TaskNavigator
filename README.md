@@ -12,7 +12,7 @@ With an intuitive user interface, TaskNavigator enables users to **add, edit, de
 - [📂 Project Structure](#-project-structure)
 - [🛠️ Tech Stack](#-tech-stack)
 - [✨ Features](#-features)
-- [📸 Screenshots](#-screenshots)
+- [📸 Screenshots](#-screenshots-mobile-view)
 
 ## 🚀 Getting Started
 
